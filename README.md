@@ -1,5 +1,5 @@
 # UFOs
-![](images/alienufo.jpg | width 100)
+![](images/alienufo.jpg)
 
 ## Overview
 - Dana has asked for our help in building a website for fellow UFO spectators. This website should be dynamic and allow site users to filter through hundreds of UFO sightings in different locations, on many dates, and in a variety of shapes.
