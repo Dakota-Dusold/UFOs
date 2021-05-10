@@ -1,5 +1,9 @@
 # UFOs
-![](images/alienufo.jpg)
+<<<<<<< HEAD
+![](static/images/alienufo.jpg)
+=======
+![](static/images/alienufo.jpg)
+>>>>>>> 1255737424a603fc70949636056ab601bcd5bbb8
 
 ## Overview
 - Dana has asked for our help in building a website for fellow UFO spectators. This website should be dynamic and allow site users to filter through hundreds of UFO sightings in different locations, on many dates, and in a variety of shapes.
@@ -13,10 +17,10 @@
 - This is exciting news for the UFO spectating world, examples are below!
 
 - Filter by "Date" and "State" at the same time!
-![](images/kyFilter.png)
+![](static/images/kyFilter.PNG)
 
 - You can even filter by shape!
-![](images/fireballFilter.png)
+![](static/images/fireballFilter.PNG)
 
 ## Summary
 - Even though these features are awesome, everything can be improved right? Right. I would suggest replacing the open entry box for "shape" with a dropdown menu. This way site visitors wouldn't have to guess which shapes where available in the data. 
